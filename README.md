@@ -27,3 +27,12 @@ Testing
 make test 
 
 
+Output
+--------
+![image](https://github.com/codingyoga/PhotoDetails/blob/7a326cc3dc75b1d652e28cac7c5575b02fdee805/screenshots/make%20run%20output.png)
+
+Pytest and Test Coverage 
+--------
+![image](https://github.com/codingyoga/PhotoDetails/blob/7a326cc3dc75b1d652e28cac7c5575b02fdee805/screenshots/pytest%20and%20code%20coverage.png)
+
+
