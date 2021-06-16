@@ -33,6 +33,6 @@ Output
 
 Pytest and Test Coverage 
 --------
-![image](https://github.com/codingyoga/PhotoDetails/blob/7a326cc3dc75b1d652e28cac7c5575b02fdee805/screenshots/pytest%20and%20code%20coverage.png)
+![image](https://github.com/codingyoga/PhotoDetails/blob/f23397c2d29ab93458e293d705a2f75b9554d687/screenshots/testcases%20and%20coverage.png)
 
 
